@@ -1,1 +1,1 @@
-web: gunicorn todo.wsgi: application
+web: gunicorn first_django_sascha.wsgi: application
