@@ -1,0 +1,1 @@
+web: gunicorn first_django_sascha.wsgi: application
